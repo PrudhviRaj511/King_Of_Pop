@@ -83,7 +83,7 @@ $(document).ready(function () {
   $(function () {
     typed.typed({
       strings: ["Michael Jackson.", "Singer.", "Dancer.", "Song Writer"],
-      typeSpeed: 60,
+      typeSpeed: 50,
       loop: true,
     });
   });
